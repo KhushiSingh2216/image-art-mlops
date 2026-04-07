@@ -1,3 +1,6 @@
+import os
+os.makedirs("outputs", exist_ok=True)
+
 from fastapi import FastAPI, UploadFile, File
 from fastapi.responses import FileResponse
 from PIL import Image
