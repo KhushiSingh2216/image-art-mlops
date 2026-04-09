@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Overview
+## 📌 Overview...
 
 This project is a **FastAPI-based Image Processing API** that converts images into:
 
